@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 I'm `guqing`, a 22 years old full-stack web developer from China, `Java` is my favorite part of software development.
 
+<！-START_SECTION：waka->
+<！-END_SECTION：waka->
+
 #### Technologies I use
 
 ![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
