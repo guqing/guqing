@@ -17,6 +17,13 @@ Here are some ideas to get you started:
 I'm `guqing`, a 22 years old full-stack web developer from China, `Java` is my favorite part of software development.
 
 <!--START_SECTION:waka-->
+```text
+Java              12 hrs 18 mins  ████████████████████░░░░░   80.37 % 
+XML               1 hr 8 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+HTML              35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+Protocol Buffer   31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+YAML              23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+```
 <!--END_SECTION:waka-->
 
 #### Technologies I use
