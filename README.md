@@ -18,11 +18,11 @@ I'm `guqing`, a 22 years old full-stack web developer from China, `Java` is my f
 
 <!--START_SECTION:waka-->
 ```text
-Java         19 hrs 41 mins  ██████████████████████▒░░   88.99 % 
-XML          1 hr 36 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
-Groovy       31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
-YAML         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-Git Config   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+Java         20 hrs 32 mins  ██████████████████████▒░░   89.59 % 
+XML          1 hr 52 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+Groovy       20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+YAML         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 ```
 <!--END_SECTION:waka-->
 
