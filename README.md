@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm `guqing`, a 22 years old full-stack web developer from China, `Java` is my favorite part of software development.
+I'm `guqing`, engage in software development work using Java language.
 
 <!--START_SECTION:waka-->
 ```text
