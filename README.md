@@ -18,11 +18,11 @@ I'm `guqing`, engage in software development work using Java language.
 
 <!--START_SECTION:waka-->
 ```text
-Java         29 hrs 13 mins  █████████████████████░░░░   84.29 % 
-XML          2 hrs 11 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
-SQL          1 hr 6 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
-JavaScript   33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-YAML         24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+Java         17 hrs 33 mins  ██████████████████████░░░   87.66 % 
+SQL          42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+JSON         28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+JavaScript   28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+Other        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
 ```
 <!--END_SECTION:waka-->
 
