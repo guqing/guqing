@@ -18,7 +18,7 @@ I'm `guqing`, engage in software development work using Java language.
 
 <!--START_SECTION:waka-->
 ```text
-Java             1 hr 43 mins    ████████████████████████▓   99.08 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
