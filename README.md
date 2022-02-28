@@ -17,13 +17,16 @@ Here are some ideas to get you started:
 I'm `guqing`, engage in software development work using Java language.
 
 <!--START_SECTION:waka-->
+
 ```text
-Java   25 hrs 36 mins  ██████████████████████▒░░   89.62 % 
-YAML   1 hr 7 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-SQL    27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
-XML    19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
-HTML   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+Java             21 hrs 46 mins  ████████████████████████░   95.45 %
+YAML             27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+GitIgnore file   15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+FTL              14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+XML              3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Bash             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
+
 <!--END_SECTION:waka-->
 
 #### Technologies I use
