@@ -19,12 +19,12 @@ I'm `guqing`, engage in software development work using Java language.
 <!--START_SECTION:waka-->
 
 ```text
-Java             13 hrs 44 mins  █████████████████▓░░░░░░░   70.57 %
-Groovy           2 hrs 14 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.55 %
-YAML             1 hr 40 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 %
-Vue.js           36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
-Properties       16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
-SQL              13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+Java             10 hrs 54 mins  ████████████████▒░░░░░░░░   65.59 %
+Groovy           2 hrs 14 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.52 %
+YAML             1 hr 47 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.78 %
+Vue.js           36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
+Properties       16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+SQL              13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
 ```
 
 <!--END_SECTION:waka-->
