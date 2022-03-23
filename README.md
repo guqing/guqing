@@ -20,12 +20,12 @@ I'm `guqing`, engage in software development work using Java language.
 <!--START_SECTION:waka-->
 
 ```text
-FTL              10 hrs 48 mins  ███████████████▓░░░░░░░░░   62.95 %
-Java             2 hrs 18 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.40 %
-CSS              2 hrs 17 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 %
-JavaScript       47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
-HTML             22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
-YAML             22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+FTL              10 hrs 48 mins  ██████████████▓░░░░░░░░░░   58.30 %
+CSS              2 hrs 17 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.40 %
+YAML             2 hrs 2 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.98 %
+Java             1 hr 59 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.71 %
+JavaScript       47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
+HTML             22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
 ```
 
 <!--END_SECTION:waka-->
