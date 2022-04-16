@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-I'm `guqing`, [Halo](https://github.com/halo-dev) 开源团队核心成员，我在 halo-dev 生态系统项目中进行贡献，例如 [halo](https://github.com/halo-dev/halo)、[halo-admin](https://github.com/halo-dev/halo-admin) 等。
+I'm `guqing`,  [Halo](https://github.com/halo-dev) 开源团队核心成员，我在 halo-dev 生态系统项目中进行贡献，例如 [halo](https://github.com/halo-dev/halo)、[halo-admin](https://github.com/halo-dev/halo-admin) 等。
 
 我目前的重点是帮助维护 [halo](https://github.com/halo-dev/halo)，并开发 [halo 2.0](https://github.com/halo-dev/halo/tree/next) 版本，你会在 halo 的 PR 中[看到我](https://github.com/guqing)与其他贡献者合作，帮助他们完成修复、改进和解决问题，并与其他维护者一起建立 halo 团队。我还在维护 [js-sdk](https://github.com/halo-dev/js-sdk)，这是一个 halo 生态的工具集。
 
