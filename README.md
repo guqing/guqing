@@ -5,7 +5,7 @@
 
 I'm `guqing`,  [Halo](https://github.com/halo-dev) 开源团队核心成员，我在 halo-dev 生态系统项目中进行贡献，例如 [halo](https://github.com/halo-dev/halo)、[halo-admin](https://github.com/halo-dev/halo-admin) 等。
 
-我目前的重点是帮助维护 [halo](https://github.com/halo-dev/halo)，并开发 [Halo 2.0](https://github.com/halo-dev/halo/tree/next) 版本，你会在 Halo 的 PR 中[看到我](https://github.com/guqing)与其他贡献者合作，帮助他们完成修复、改进和解决问题，并与其他维护者一起建立 halo 团队。我还在维护 [@halo-dev/js-sdk](https://github.com/halo-dev/js-sdk)，这是一个 Halo 生态的工具集。
+我目前的重点是帮助维护 [halo](https://github.com/halo-dev/halo)，并开发 [Halo 2.0](https://github.com/halo-dev/halo/tree/next) 版本，你会在 Halo 的 PR 中[看到我](https://github.com/guqing)与其他贡献者合作，帮助他们完成修复、改进和解决问题，并与其他维护者一起建立 halo 团队。我还在维护 [js-sdk](https://github.com/halo-dev/js-sdk)，这是一个 Halo 生态的工具集。
 
 除了编码之外，我还我喜欢：插花、纯音乐、宋词、瘦金体以及具有斑驳年代感的物品和古建筑等，它们隐含着某种岁月氛围，连空间都弥漫着一股怀旧美学的调性，充满了故事感。我目前生活在成都，我喜欢这座城市，这是我所偏爱的所谓文青慢活的生活节奏，这里有“九天开出一成都，万户千门入画图”的浪漫，也有“晓看红湿处，花重锦官城”的美景，更有“青青竹笋迎船出，日日江鱼入馔来”般的美食...
 
