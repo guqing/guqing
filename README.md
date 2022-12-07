@@ -9,8 +9,6 @@ I'm `guqing`,  [Halo](https://github.com/halo-dev) 开源团队核心成员，�
 
 除了编码之外，我还我喜欢：插花、纯音乐、宋词、瘦金体以及具有斑驳年代感的物品和古建筑等，它们隐含着某种岁月氛围，连空间都弥漫着一股怀旧美学的调性，充满了故事感。我目前生活在成都，我喜欢这座城市，这是我所偏爱的所谓文青慢活的生活节奏，这里有“九天开出一成都，万户千门入画图”的浪漫，也有“晓看红湿处，花重锦官城”的美景，更有“青青竹笋迎船出，日日江鱼入馔来”般的美食...
 
-<img alt="GIF" src="https://github-readme-activity-graph.guqing.repl.co/graph?username=guqing&theme=react-dark&bg_color=20232a&hide_border=true&raw=true" width="100%" height="220" />
-
 <img alt="Coding gif" src="./assets/Developer.gif" width="45" /> **这周我把时间都花在:**
 
 <!--START_SECTION:waka-->
