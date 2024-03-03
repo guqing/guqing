@@ -14,7 +14,7 @@ I'm `guqing`,  [Halo](https://github.com/halo-dev) 开源团队核心成员，�
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 February 2024 - To: 01 March 2024
+From: 24 February 2024 - To: 02 March 2024
 
 Total Time: 16 hrs 6 mins
 
