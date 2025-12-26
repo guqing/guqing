@@ -1,15 +1,85 @@
 <!--
 **guqing/guqing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-### Hi there 👋
 
-I'm `guqing`,  [Halo](https://github.com/halo-dev) 开源团队核心成员，我在 [halo-dev](https://github.com/halo-dev) 和 [halo-sigs](https://github.com/halo-sigs) 生态系统项目中进行贡献，例如 [halo](https://github.com/halo-dev/halo)、[console](https://github.com/halo-dev/console) 等。
+# Hi there, I'm Guqing 👋
 
-我目前的重点是帮助维护 [halo](https://github.com/halo-dev/halo)，并开发 [Halo 2.0](https://github.com/halo-dev/halo/tree/next) 版本，你会在 Halo 的 PR 中[看到我](https://github.com/guqing)与其他贡献者合作，帮助他们完成修复、改进和解决问题，并与其他维护者一起建立 halo 团队。我还在维护 Halo 开源组织的一系列插件，并提供一些工具不断改进插件的开发体验。
+<div align="center">
+  
+[![GitHub followers](https://img.shields.io/github/followers/guqing?style=social)](https://github.com/guqing)
+[![Website](https://img.shields.io/badge/Website-guqing.io-blue)](https://guqing.io)
+[![Email](https://img.shields.io/badge/Email-i@guqing.email-red)](mailto:i@guqing.email)
 
-除了编码之外，我还我喜欢：插花、纯音乐、宋词、瘦金体以及具有斑驳年代感的物品和古建筑等，它们隐含着某种岁月氛围，连空间都弥漫着一股怀旧美学的调性，充满了故事感。我目前生活在成都，我喜欢这座城市，这是我所偏爱的所谓文青慢活的生活节奏，这里有“九天开出一成都，万户千门入画图”的浪漫，也有“晓看红湿处，花重锦官城”的美景，更有“青青竹笋迎船出，日日江鱼入馔来”般的美食...
+**Senior Full-Stack Engineer | Open Source Enthusiast | Core Maintainer @ Halo**
 
-<img alt="Coding gif" src="./assets/Developer.gif" width="45" /> **这周我把时间都花在:**
+📍 Chengdu, China • 🌐 [guqing.io](https://guqing.io) • 🏆 GitHub Top 6% Contributor
+
+</div>
+
+---
+
+## 🚀 About Me
+
+- 🏗️ **Core Architect** of [Halo 2.0](https://github.com/halo-dev/halo) (37K+ ⭐, 20K+ users), leading the complete rewrite from scratch
+- 🎯 **6+ years** of open source contribution experience
+- 💼 **6 years** of professional full-stack development experience
+- 📊 **722 PRs merged** • **2200+ Code Reviews** • **540+ Commits**
+- 🎓 Open Source Summer Mentor (2024)
+- 🎤 Tech speaker at 21+ community meetups, hosted 4 plugin development series
+- 🏪 **App Store Builder**: Built Halo App Store from 0 to 197 apps with community, curated 50+ showcase cases at [halo.run/showcase](https://www.halo.run/showcase)
+
+## 🛠️ Tech Stack
+
+### Languages & Frameworks
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+
+### Architecture & Patterns
+
+- **DDD-Lite** (Domain-Driven Design)
+- **CQRS** (Command Query Responsibility Segregation)
+- **Kubernetes Operator Pattern** (Extension/Controller/Reconciler)
+- **Monorepo** (pnpm + Turborepo)
+
+### Databases & Tools
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
+
+## 🏆 Highlights
+
+### 🎨 Halo 2.0 Core Architecture (2022-2025)
+
+As the **principal architect and lead designer** of Halo 2.0's complete rewrite:
+
+- **Plugin System** (164 PRs, 22.7%) - Designed and implemented the entire plugin architecture
+  - 🔧 Kubernetes Operator-inspired Extension/Controller/Reconciler pattern
+  - 🔌 Plugin lifecycle management, hot-reload, extension points
+- **Theme System** (83 PRs, 11.5%) - Complete theme architecture design
+- **Permission System** (63 PRs, 8.7%) - RBAC model implementation
+- **Custom Indexing** (42 PRs) - Solved large-scale data query performance issues
+- **Thumbnail Mechanism** - Extensible thumbnail generation system
+- **Snapshot System** - Version control and collaboration tracking
+
+### 🔧 Open Source Contributions
+
+- 🎯 **20+ Official Plugins** for Halo ecosystem
+- 🛠️ **halo-gradle-plugin** - Plugin development toolchain (100 commits, 22 PRs)
+- 📚 **36 commits, 38 PRs** on official documentation
+- 🏪 **App Store**: Built with community from 0 to **197 apps**
+- 🎨 **Showcase**: Curated 50+ [personal & enterprise use cases](https://www.halo.run/showcase)
+- 🐛 Contributed to **Spring Framework**, **R2DBC**, **PF4J**
+
+## 📊 This Week I Spent My Time On
 
 <!--START_SECTION:waka-->
 
@@ -27,19 +97,55 @@ JavaScript   57 mins         █░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-#### Technologies I use
+## 📈 GitHub Stats
 
-![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
-![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
-![Vue](https://img.shields.io/badge/-Vue-222222?style=flat&logo=Vue.js&logoColor=4FC08D)
+<div align="center">
+  
+![Guqing's GitHub stats](https://github-readme-stats.vercel.app/api?username=guqing&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guqing&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-#### 📫 Reach me
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white&link=)](https://t.me/guqings) [![WeiBo Badge](https://img.shields.io/badge/-微博-red?style=flat&logo=sina-weibo&logoColor=white&link=)](https://weibo.com/guqing3478520) [![Github Badge](https://img.shields.io/badge/-Github-24292e?style=flat&logo=github&logoColor=white&link=)](https://github.com/guqing) [![Instagram URL](https://img.shields.io/twitter/url?label=Instagram&logo=Instagram&style=social&url=https://instagram.com/guqing_studio)](https://instagram.com/guqing_studio) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guqing3478520@gmail.com)](mailto:guqing3478520@gmail.com)
 
-![](https://hit.yhype.me/github/profile?user_id=38999863)
+</div>
+
+## 📝 Recent Blog Posts
+
+- [2024 开源贡献与成长](https://guqing.io/archives/2024-opensource-yearly-report)
+- [2023 开源之旅总结](https://guqing.io/archives/2023-github-opensource-journey)
+- [2022 代码统计](https://guqing.io/archives/2022-code-stats)
+
+➡️ [More blog posts...](https://guqing.io)
+
+## 💝 Beyond Coding
+
+除了编码之外，我还喜欢：插花 🌸、纯音乐 🎵、宋词 📜、瘦金体 ✍️ 以及具有斑驳年代感的物品和古建筑 🏛️ 等，它们隐含着某种岁月氛围，连空间都弥漫着一股怀旧美学的调性，充满了故事感。
+
+我目前生活在成都 🐼，我喜欢这座城市，这是我所偏爱的所谓文青慢活的生活节奏：
+
+- 🌆 "九天开出一成都，万户千门入画图"的浪漫
+- 🌺 "晓看红湿处，花重锦官城"的美景
+- 🍜 "青青竹笋迎船出，日日江鱼入馔来"的美食
+
+## 🤝 Connect with Me
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-guqing.io-blue?style=for-the-badge&logo=google-chrome)](https://guqing.io)
+[![GitHub](https://img.shields.io/badge/GitHub-guqing-181717?style=for-the-badge&logo=github)](https://github.com/guqing)
+[![Email](https://img.shields.io/badge/Email-i@guqing.email-D14836?style=for-the-badge&logo=gmail)](mailto:i@guqing.email)
+[![X](https://img.shields.io/badge/X-@guqingio-000000?style=for-the-badge&logo=x)](https://x.com/guqingio)
+[![Telegram](https://img.shields.io/badge/Telegram-@guqings-blue?style=for-the-badge&logo=telegram)](https://t.me/guqings)
+[![Instagram](https://img.shields.io/badge/Instagram-@guqingio-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/guqingio)
+
+</div>
+
+---
+
+<div align="center">
+
+💡 **"毕生所求无它，爱与自由而已"**
+
+![](https://komarev.com/ghpvc/?username=guqing&color=blueviolet&style=flat-square&label=Profile+Views)
+
+⭐️ From [guqing](https://github.com/guqing) | 📫 Open to collaboration and opportunities
+
+</div>
