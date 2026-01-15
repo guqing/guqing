@@ -96,13 +96,12 @@ JSON       0 secs          ▒░░░░░░░░░░░░░░░░�
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  
-[![Guqing's GitHub stats](https://github-readme-stats.vercel.app/api?username=guqing&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guqing&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://guqing-gh-readme-stats.vercel.app/api?username=guqing&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" />
+</a>
+<a href="https://github.com/guqing">
+  <img height=200 align="center" src="https://guqing-gh-readme-stats.vercel.app/api/top-langs?username=guqing&layout=compact&langs_count=8&card_width=320&theme=dracula" />
+</a>
 
 ## 📝 Recent Blog Posts
 
