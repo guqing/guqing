@@ -2,7 +2,7 @@
 **guqing/guqing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-# Hi there, I'm Guqing 👋
+# Hi there, I'm GuQing 👋
 
 <div align="center">
   
@@ -130,7 +130,6 @@ JSON       0 secs          ▒░░░░░░░░░░░░░░░░�
 [![Email](https://img.shields.io/badge/Email-i@guqing.email-D14836?style=for-the-badge&logo=gmail)](mailto:i@guqing.email)
 [![X](https://img.shields.io/badge/X-@guqingio-000000?style=for-the-badge&logo=x)](https://x.com/guqingio)
 [![Telegram](https://img.shields.io/badge/Telegram-@guqings-blue?style=for-the-badge&logo=telegram)](https://t.me/guqings)
-[![Instagram](https://img.shields.io/badge/Instagram-@guqingio-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/guqingio)
 
 </div>
 
