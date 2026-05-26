@@ -84,15 +84,15 @@ As the **principal architect and lead designer** of Halo 2.0's complete rewrite:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 May 2026 - To: 24 May 2026
+From: 18 May 2026 - To: 25 May 2026
 
-Total Time: 33 hrs 42 mins
+Total Time: 34 hrs 23 mins
 
-TypeScript     22 hrs 56 mins        █████████████████░░░░░░░░   68.07 %
-JavaScript     2 hrs 54 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 %
-Markdown       2 hrs 45 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 %
-Other          1 hr 23 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
-CSS            1 hr                  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+TypeScript     23 hrs 22 mins        █████████████████░░░░░░░░   67.98 %
+Markdown       3 hrs 27 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.05 %
+JavaScript     2 hrs 42 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 %
+JSON           1 hr 23 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
+YAML           1 hr 2 mins           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
 ```
 
 <!--END_SECTION:waka-->
