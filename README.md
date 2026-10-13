@@ -84,7 +84,7 @@ As the **principal architect and lead designer** of Halo 2.0's complete rewrite:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 October 2026 - To: 11 October 2026
+From: 05 October 2026 - To: 12 October 2026
 
 Total Time: 23 hrs 18 mins
 
